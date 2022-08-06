@@ -9,15 +9,17 @@ from such attributes to a fuel consumption. Attributes included are MPG (Miles p
 - Total No. Of Attributes: 9
 - Total No. Of Instances:300
 - Attributes:
-1.MPG - Mileage/Miles Per Gallon
-2.Cylinders - The power unit of the car where gasoline is turned into power
-3.Displacement - Engine displacement of the car
-4.Horsepower - Rate of the engine performance
-5.Weight - The weight of a car
-6.Acceleration - The acceleration of a car
-7.Model Year - Model of the car
-8.Origin - The origin of the car
-9.Car Name - The name of the car
+```bash
+ 1.MPG - Mileage/Miles Per Gallon
+ 2.Cylinders - The power unit of the car where gasoline is turned into power
+ 3.Displacement - Engine displacement of the car
+ 4.Horsepower - Rate of the engine performance
+ 5.Weight - The weight of a car
+ 6.Acceleration - The acceleration of a car
+ 7.Model Year - Model of the car
+ 8.Origin - The origin of the car
+ 9.Car Name - The name of the car
+```
 ## Libraries Used:
 - Numpy
 - Pandas
